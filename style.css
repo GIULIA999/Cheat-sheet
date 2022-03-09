@@ -1,0 +1,43 @@
+
+*{
+    
+}
+h1{
+    text-align: center;
+    color: #7CC276;
+}
+
+body{
+    background-color:#F0F0F0;
+
+
+}
+
+thead{
+    background: #7CC276;
+    color: white;
+    border: solid white;
+
+}
+
+table{
+    margin: 20px auto;
+    position: static;
+    height: 40%;
+    left: 10%;
+    background: #DEFADB;
+    border: 1px solid white;
+}
+
+.tag{
+    font-weight: bold;
+    border: solid white;
+    text-align: center;
+    padding: 5px auto;
+ }
+
+ td{
+     border: solid white;
+     padding: 10px;
+
+ }
